@@ -2,6 +2,7 @@
 FullStack Java Spring + React v1
 
 Instrucciones para ejecutar el Proyecto
+
 1.- Ejecutar Run Java en la carpeta fullstack-backend con VsCode para que descargue todas las dependencias del archivo pom.xm y se ejecute la parte backend.
 2.- Abrir la Terminal en la carpeta fullstack-frontend y ejecutar npm install para que se descarguen todas las librerias del archivo package.json.
 3.- Una vez terminada de descargar las librerias ejecutar en la terminal el comando npm start para ejecutar la parte frontend del proyecto.
